@@ -1,0 +1,1 @@
+5:return {{["x"] = 2, ["param2"] = 12, ["y"] = 0, ["z"] = 3, ["name"] = "default:aspen_tree"}, {["x"] = 3, ["param2"] = 12, ["y"] = 0, ["z"] = 3, ["name"] = "default:aspen_tree"}, {["x"] = 4, ["param2"] = 12, ["y"] = 0, ["z"] = 3, ["name"] = "default:aspen_tree"}}
