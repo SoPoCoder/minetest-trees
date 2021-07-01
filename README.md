@@ -1,7 +1,7 @@
 # Minetest Trees
 Tree schems (as well as bushes, logs and boulders) that can be loaded into Minetest using the WorldEdit tool. Includes a wider variety of tree shapes and sizes using all native nodes (no mods required).
 
-![trees_demo](https://user-images.githubusercontent.com/7158003/124072101-ebac5a00-da72-11eb-9415-418bc2e174a8.jpg)
+![trees_demo](https://user-images.githubusercontent.com/7158003/124171726-83de2980-dadb-11eb-8476-786bf555fb8e.jpg)
 
 ### Dependencies:
 To load the schem files into your Minetest world you will need the [Minetest-WorldEdit tool](https://github.com/Uberi/Minetest-WorldEdit)
@@ -31,11 +31,9 @@ To load the schem files into your Minetest world you will need the [Minetest-Wor
 | aspen2                | 7     | 11    | 7 
 | aspen3                | 7     | 15    | 7 
 | aspen4                | 7     | 18    | 7 
-| bonsai1               | 9     | 7     | 9 
-| bonsai2               | 9     | 9     | 9 
+| bonsai                | 9     | 9     | 9 
 | boulder1              | 5     | 7     | 5 
 | boulder2              | 9     | 6     | 9 
-| boulder3              | 7     | 5     | 7 
 | cactus1               | 5     | 1     | 5 
 | cactus2               | 5     | 8     | 5 
 | cactus3               | 5     | 8     | 5 
@@ -52,8 +50,7 @@ To load the schem files into your Minetest world you will need the [Minetest-Wor
 | jungletree2           | 7     | 13    | 7 
 | jungletree3           | 7     | 15    | 7 
 | jungletree4           | 7     | 17    | 7 
-| marsh1                | 9     | 8     | 9 
-| marsh2                | 9     | 12    | 9 
+| marshtree             | 9     | 12    | 9 
 | pine1                 | 5     | 1     | 5 
 | pine2                 | 5     | 11    | 5 
 | pine3                 | 5     | 14    | 5 
