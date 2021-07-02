@@ -15,7 +15,7 @@ To load the schem files into your Minetest world you will need the [Minetest-Wor
 ### WorldEdit Instructions
 1. Drop the schems folder into the root folder of the world you wish to add trees to (i.e. /minetest/worlds/myworld/)
 2. If you haven't already, enable the Minetest-WorldEdit mod for the world you wish to add trees to
-3. Consider where you wish to place your tree/bush/log/boulder. The WorldEdit tool always places schems with the bottom-most southwest corner of the schem at position 1, regardless of where position 2 happens to be. To ensure that your trees trunk is located where you expect it to be, use the following chart showing shema volume to determine where you should place position 1 before loading the schem. Note that the area of every schem is a square, that is the x and z lengths are identical. All bushes have an area of 4 blocks by 4 blocks.
+3. Consider where you wish to place your tree/bush/log/boulder. The WorldEdit tool always places schems with the bottom-most southwest corner of the schem at position 1, regardless of where position 2 happens to be. To ensure that your trees trunk is located where you expect it to be, use the following chart showing shema volume to determine where you should place position 1 before loading the schem. Note that the area of every schem is a square, that is the x and z lengths are identical. All bushes have an area of 4 blocks by 4 blocks. Parameter 2 for all leaves is set to 0 (decay when nearby trunk has been removed).
 
 | Schem File Name       |   x   |   y   |   z  
 | ------                | ----- | ----- | -----
